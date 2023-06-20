@@ -1,0 +1,15 @@
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\bin\Debug\net6.0\ListaArreglos.exe
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\bin\Debug\net6.0\ListaArreglos.deps.json
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\bin\Debug\net6.0\ListaArreglos.runtimeconfig.json
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\bin\Debug\net6.0\ListaArreglos.dll
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\bin\Debug\net6.0\ListaArreglos.pdb
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.csproj.AssemblyReference.cache
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.AssemblyInfoInputs.cache
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.AssemblyInfo.cs
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.csproj.CoreCompileInputs.cache
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.dll
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\refint\ListaArreglos.dll
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.pdb
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ListaArreglos.genruntimeconfig.cache
+C:\Users\mars_\source\Repos\ArrayListExample\ListaArreglos\obj\Debug\net6.0\ref\ListaArreglos.dll
